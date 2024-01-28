@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Hyperlink?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<BorderPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="piotr.mazur.sOneController">
+   <center>
+      <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" BorderPane.alignment="CENTER">
+         <children>
+            <Button layoutX="261.0" layoutY="202.0" mnemonicParsing="false" onAction="#continew" text="Continue" />
+            <Hyperlink layoutX="239.0" layoutY="354.0" onAction="#signUp" prefHeight="24.0" prefWidth="109.0" text="Create an Account" textAlignment="CENTER" />
+            <PasswordField fx:id="passwordText" layoutX="219.0" layoutY="172.0" promptText="Password" />
+            <Text fx:id="errorMsg" fill="RED" layoutX="219.0" layoutY="252.0" strokeType="OUTSIDE" strokeWidth="0.0" textAlignment="CENTER" wrappingWidth="148.13671875" />
+            <Text fx:id="successMsg" fill="#00ff15" layoutX="219.0" layoutY="244.0" strokeType="OUTSIDE" strokeWidth="0.0" textAlignment="CENTER" wrappingWidth="148.13671875" />
+            <TextField fx:id="usernameText" layoutX="219.0" layoutY="140.0" promptText="Username" />
+            <Text layoutX="219.0" layoutY="109.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Log-In" textAlignment="CENTER" wrappingWidth="147.025390625">
+               <font>
+                  <Font name="Arial Italic" size="33.0" />
+               </font>
+            </Text>
+         </children>
+      </AnchorPane>
+   </center>
+</BorderPane>

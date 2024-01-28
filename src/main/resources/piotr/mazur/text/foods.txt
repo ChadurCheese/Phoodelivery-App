@@ -1,0 +1,119 @@
+Category = Italian
+Name = Pizza
+Price = 7.99
+Restaurant = Olive Garden
+
+Category = Italian
+Name = Spaghetti
+Price = 7.99
+Restaurant = Olive Garden
+
+Category = Italian
+Name = Lasagna
+Price = 11.99
+Restaurant = Olive Garden
+
+Category = American
+Name = Cheeseburger
+Price = 4.99
+Restaurant = Burger King
+
+Category = American
+Name = Hotdog
+Price = 1.99
+Restaurant = CostCo
+
+Category = American
+Name = Apple Pie
+Price = 3.99
+Restaurant = McDonalds
+
+Category = Japanese
+Name = Sushi
+Price = 4.99
+Restaurant = Tomo Sushi
+
+Category = Japanese
+Name = Sashimi
+Price = 5.99
+Restaurant = Tomo Sushi
+
+Category = Japanese
+Name = Ramen
+Price = 3.99
+Restaurant = Tomo Sushi
+
+Category = Chinese
+Name = Dumpling
+Price = 8.99
+Restaurant = Red Panda Pavilion
+
+Category = Chinese
+Name = Chow Mein
+Price = 2.99
+Restaurant = Mandarin
+
+Category = Chinese
+Name = Tofu
+Price = 2.99
+Restaurant = Red Panda Pavilion
+
+Category = Mexican
+Name = Burrito
+Price = 9.99
+Restaurant = Chipotle
+
+Category = Mexican
+Name = Enchiladas
+Price = 7.99
+Restaurant = Chipotle
+
+Category = Mexican
+Name = Taco
+Price = 4.99
+Restaurant = Taco Bell
+
+Category = Korean
+Name = Kimchi
+Price = 5.99
+Restaurant = Daidongnae BBQ
+
+Category = Korean
+Name = Bibimbap
+Price = 4.99
+Restaurant = Daidongnae BBQ
+
+Category = Korean
+Name = Red Rice Cakes
+Price = 3.99
+Restaurant = Sikgaek
+
+Category = Indian
+Name = Chicken Tikka Masala
+Price = 5.99
+Restaurant = Karachi Grill
+
+Category = Indian
+Name = Butter Chicken
+Price = 6.99
+Restaurant = Karachi Grill
+
+Category = Indian
+Name = Biryani
+Price = 7.99
+Restaurant = Karachi Grill
+
+Category = Polish
+Name = Perogies
+Price = 4.99
+Restaurant = Zagloba
+
+Category = Polish
+Name = Cabbage Rolls
+Price = 5.99
+Restaurant = Orbit
+
+Category = Polish
+Name = Gulasz
+Price = 4.99
+Restaurant = Orbit
