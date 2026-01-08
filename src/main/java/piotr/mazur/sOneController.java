@@ -57,6 +57,7 @@ public class sOneController {
             errorMsg.setText("Incorrect username or password. Please try again or create an account.");
             sTwoController.fadeOut(errorMsg, 2000);
         }
+        sc.close();
     }
 
     // takes user to signup page

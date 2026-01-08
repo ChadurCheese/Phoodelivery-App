@@ -59,6 +59,7 @@ public class App extends Application {
                     Foods.add(new Food(name, price, restaurant));
                 }
             }
+            sc.close();
             return Foods;
         } catch (FileNotFoundException e) {
             System.out.println("Food Database not found");
