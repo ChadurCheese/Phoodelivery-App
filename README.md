@@ -1,6 +1,6 @@
-```markdown
+```
 # 🍔 Phoodelivery - Food Delivery Application
-
+```
 A sophisticated JavaFX-based food delivery desktop application with UI, multi-cuisine support, shopping cart functionality, and complete order management system.
 
 ## ✨ Features
